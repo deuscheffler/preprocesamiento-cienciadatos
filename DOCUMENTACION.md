@@ -52,6 +52,25 @@ git branch -d feature-preprocesamiento	*Elimina la rama local después de la fus
 <img width="581" height="550" alt="image" src="https://github.com/user-attachments/assets/5fec9b3f-bd78-4a08-a159-7295778486fb" />
 
 
+# Automatización
+
+Se creó un flujo automatizado de GitHub Actions para validar el código del proyecto en cada push o pull request.
+Este flujo se encuentra en el archivo:
+
+.github/workflows/python-app.yml
+
+<img width="688" height="365" alt="Captura de pantalla 2025-11-09 155501" src="https://github.com/user-attachments/assets/37e60b7e-3806-4803-a9e4-c18fcb1894f1" />
+
+
+
+<img width="923" height="515" alt="Captura de pantalla 2025-11-09 155553" src="https://github.com/user-attachments/assets/a6895a9d-0ca7-4b61-b1eb-1bd7125f1ad0" />
+
+
+<img width="938" height="587" alt="Captura de pantalla 2025-11-09 155608" src="https://github.com/user-attachments/assets/e8950cab-d7b3-4e10-a4c7-c311bfbd241b" />
+
+
+
+
 # Pull Request y Fusión en GitHub
 
 Evidencia del proceso de revisión, aprobación y fusión de la rama feature-preprocesamiento con main.
