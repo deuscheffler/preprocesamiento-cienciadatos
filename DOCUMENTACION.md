@@ -52,5 +52,17 @@ git branch -d feature-preprocesamiento	*Elimina la rama local después de la fus
 <img width="581" height="550" alt="image" src="https://github.com/user-attachments/assets/5fec9b3f-bd78-4a08-a159-7295778486fb" />
 
 
+# Pull Request y Fusión en GitHub
+
+Evidencia del proceso de revisión, aprobación y fusión de la rama feature-preprocesamiento con main.
+
+<img width="927" height="590" alt="Captura de pantalla 2025-11-09 141754" src="https://github.com/user-attachments/assets/968b8ffe-24cb-4c0d-9776-0e34ed9cc708" />
 
 
+<img width="1343" height="842" alt="Captura de pantalla 2025-11-09 140457" src="https://github.com/user-attachments/assets/1c4d77a3-83a4-46e0-905e-5e1a4ec2be75" />
+
+
+<img width="366" height="320" alt="Captura de pantalla 2025-11-09 140511" src="https://github.com/user-attachments/assets/2c3b5e61-4834-4866-876d-42eff71ff667" />
+
+
+<img width="937" height="208" alt="Captura de pantalla 2025-11-09 140528" src="https://github.com/user-attachments/assets/59e55ce6-c40f-44cc-9d93-f2ac4bddcd61" />
