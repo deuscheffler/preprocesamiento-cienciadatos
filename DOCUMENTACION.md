@@ -1,5 +1,8 @@
 Autor: Jefferson Sandoval — Universidad Nacional de Chimborazo
 Usuario GitHub: deuscheffler
+LINK REPOSITORIO: https://github.com/deuscheffler/preprocesamiento-cienciadatos.git
+
+LINK REPOSITORIO: https://github.com/deuscheffler/preprocesamiento-cienciadatos.git
 
 # 1. Introducción
 ## Objetivo del proyecto
